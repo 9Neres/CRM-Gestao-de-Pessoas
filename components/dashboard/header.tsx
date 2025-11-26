@@ -11,7 +11,7 @@ import { useAuth } from "@/hooks/use-auth"
 import { useTickets } from "@/hooks/use-tickets"
 import { teamMembers } from "./team-data"
 
-const GITHUB_URL = "https://github.com"
+const GITHUB_URL = "https://github.com/9Neres/CRM-Gest-o-de-Pessoas"
 
 const defaultTicketForm = {
   title: "",

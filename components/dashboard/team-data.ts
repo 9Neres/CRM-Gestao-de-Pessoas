@@ -2,6 +2,8 @@ export interface TeamMember {
   id: number
   name: string
   role: string
+  age?: number
+  shift?: string
   performance: number
   tasksCompleted: number
   reviewsCount: number
